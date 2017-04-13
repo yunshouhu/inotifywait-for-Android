@@ -1,0 +1,13 @@
+﻿*.exe
+*.vcxproj
+*.filters
+*.iml
+*.user
+/Debug/
+/obj/
+/doc/
+/.settings/
+/vld/
+*.DS_Store
+*.rar
+/build/
